@@ -1,6 +1,6 @@
 var currentDateEl = $("#currentDay");
 var currentDate = moment().format("LL"); 
-var textAreaEl = $("textarea");
+// var textAreaEl = $("textarea");
 var currentHour = moment().format("H");
 
 //Current date on page

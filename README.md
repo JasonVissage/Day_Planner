@@ -26,3 +26,14 @@ THEN the text for that event is saved in local storage
 
 WHEN I refresh the page
 THEN the saved events persist
+
+## Color legend
+Grey: Past
+Red: Present
+Green: Future
+
+## Description
+When you enter your tasks through out the day in the task fields, you can click the save button (Icon on the right) and it will save it to  local storage. In order to remove tasks, you click into the text field and delete it, then save again. 
+
+## Screenshot
+Screen Shot 2021-12-11 at 11.05.29 AM
