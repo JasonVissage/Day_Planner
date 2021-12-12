@@ -36,4 +36,8 @@ Green: Future
 When you enter your tasks through out the day in the task fields, you can click the save button (Icon on the right) and it will save it to  local storage. In order to remove tasks, you click into the text field and delete it, then save again. 
 
 ## Screenshot
-Screen Shot 2021-12-11 at 11.05.29 AM
+<img width="1288" alt="Screen Shot 2021-12-11 at 11 05 29 AM" src="https://user-images.githubusercontent.com/92236402/145717015-1bff1c8c-ce53-4f69-a0f4-9fee81813fb8.png">
+
+
+## Link to Deployment
+https://jasonvissage.github.io/Day_Planner/
